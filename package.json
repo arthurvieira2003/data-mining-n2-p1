@@ -1,0 +1,22 @@
+{
+  "name": "data-mining-n2-p1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apriori": "^1.0.7",
+    "csv-parser": "^3.2.0",
+    "ml-dataset-iris": "^1.2.1",
+    "ml-kmeans": "^6.0.0",
+    "ml-pca": "^4.1.1",
+    "ml-random-forest": "^2.1.0",
+    "node-kmeans": "^1.1.9",
+    "xlsx": "^0.18.5"
+  }
+}

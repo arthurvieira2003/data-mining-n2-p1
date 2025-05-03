@@ -134,3 +134,30 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Arquivos específicos do projeto
+*.json
+!package.json
+!package-lock.json
+resultados.html
+
+# Arquivos LaTeX
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+.*.lb
+*.dvi
+*.xdv
+*-converted-to.*
+*.pdf
+*.ps
+*.eps
+*.tex~
